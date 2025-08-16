@@ -1,0 +1,339 @@
+[
+    {
+        "id": 1,
+        "title": "Jurassic World: Rebirth",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ_mCeNLtPfEM8AbIDVZUyVyuu_JENshYBugD_JPNjI9vrBWRA",
+        "image_landscape": "https://www.bizzbuzz.news/h-upload/2025/07/05/1969794-jurassic-world.webp",
+        "director": "Vince Gilligan",
+        "trailer_video": "https://www.youtube.com/watch?v=zNMV8uoZiqE&list=RDzNMV8uoZiqE&start_radio=1",
+        "cast": [
+            {
+                "name": "Chris Pratt",
+                "role": "Owen Grady"
+            },
+            {
+                "name": "Bryce Dallas Howard",
+                "role": "Claire Dearing"
+            },
+            {
+                "name": "Sam Neill",
+                "role": "Dr. Alan Grant"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "120min",
+        "country": "USA",
+        "summary": "In a world where dinosaurs have reclaimed the Earth, a group of survivors must navigate the dangers of a prehistoric landscape while uncovering the secrets of their past.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Superman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/32/Superman_%282025_film%29_poster.jpg",
+        "image_landscape": "https://thebasie.org/wp-content/uploads/2025/06/Superman-CINEMAS-EVENT.jpg",
+        "director": "James Gunn",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Henry Cavill",
+                "role": "Superman"
+            },
+            {
+                "name": "Amy Adams",
+                "role": "Lois Lane"
+            },
+            {
+                "name": "Michael Shannon",
+                "role": "General Zod"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "150min",
+        "country": "USA",
+        "summary": "After years of absence, Superman returns to Earth to face a new threat that could destroy humanity, while also dealing with his own legacy and the expectations of the world.",
+        "rating": 4.9
+    },
+    {
+        "id": 3,
+        "title": "The Fantastic Four First Steps",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt29QE84tcyKvFEOFLP9Id9vjGshi8FIDX4iH-tVY79VqJ5tmhjUxpPqeFPQebS7p4Hk4rXg",
+        "image_landscape": "https://cosmicbook.news/wp-content/uploads/2025/07/fantastic-four-review.webp",
+        "director": "John Watts",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "John Krasinski",
+                "role": "Reed Richards"
+            },
+            {
+                "name": "Emily Blunt",
+                "role": "Sue Storm"
+            },
+            {
+                "name": "Michael B. Jordan",
+                "role": "Johnny Storm"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "140min",
+        "country": "USA",
+        "summary": "The origin story of the Fantastic Four as they gain their powers and face their first major threat, setting the stage for their future adventures.",
+        "rating": 4.4
+    },
+    {
+        "id": 4,
+        "title": "Ballerina",
+        "image": "https://images.m4uhd.com.co/pt/01/Ballerina-2025.jpg",
+        "director": "Chad Stahelski",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Ana de Armas",
+                "role": "Ballerina"
+            },
+            {
+                "name": "Keanu Reeves",
+                "role": "John Wick"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Thriller"}
+        ],
+        "premiere": "2025",
+        "running_time": "130min",
+        "country": "USA",
+        "summary": "A young ballerina seeks revenge against those who wronged her, with the help of John Wick, leading to a deadly dance of vengeance.",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "title": "How to Train Your Dragon",
+        "image": "https://images.m4uhd.com.co/pt/01/How-to-Train-Your-Dragon-2025.jpg",
+        "director": "Dean DeBlois",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Jay Baruchel",
+                "role": "Hiccup"
+            },
+            {
+                "name": "America Ferrera",
+                "role": "Astrid"
+            }
+        ],
+        "genre": [
+            {"name": "Animation"},
+            {"name": "Adventure"},
+            {"name": "Family"}
+        ],
+        "premiere": "2025",
+        "running_time": "100min",
+        "country": "USA",
+        "summary": "Hiccup and Toothless embark on a new adventure to save their world from a new threat, while also discovering the true meaning of friendship and bravery.",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "title": "Sinners",
+        "image": "https://images.m4uhd.com.co/pt/01/sinners-2025-movie.jpg",
+        "director": "John Doe",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Actor One",
+                "role": "Lead Role"
+            },
+            {
+                "name": "Actor Two",
+                "role": "Supporting Role"
+            }
+        ],
+        "genre": [
+            {"name": "Drama"},
+            {"name": "Thriller"}
+        ],
+        "premiere": "2025",
+        "running_time": "120min",
+        "country": "USA",
+        "summary": "A gripping tale of redemption and the struggle against one's inner demons.",
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "title": "The Bad Guys 2",
+        "image": "https://images.m4uhd.com.co/pt/01/The.Bad.Guys.2.2025.jpg",
+        "director": "Pierre Perifel",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Sam Rockwell",
+                "role": "Mr. Wolf"
+            },
+            {
+                "name": "Marc Maron",
+                "role": "Mr. Snake"
+            }
+        ],
+        "genre": [
+            {"name": "Animation"},
+            {"name": "Comedy"},
+            {"name": "Adventure"}
+        ],
+        "premiere": "2025",
+        "running_time": "100min",
+        "country": "USA",
+        "summary": "The Bad Guys are back for another hilarious adventure, this time facing off against a new villain who threatens their way of life.",
+        "rating": 4.2
+    },
+    {
+        "id": 8,
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "image": "https://images.m4uhd.com.co/asset/2022/april/01/marvels-agents-of-s-h-i-e-l-d-2013.jpg",
+        "director": "Joss Whedon",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Clark Gregg",
+                "role": "Phil Coulson"
+            },
+            {
+                "name": "Ming-Na Wen",
+                "role": "Melinda May"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "120min",
+        "country": "USA",
+        "summary": "The agents of S.H.I.E.L.D. return to face new threats and uncover hidden secrets in the Marvel Cinematic Universe.",
+        "rating": 4.8
+    },
+    {
+        "id": 9,
+        "title": "Daredevil",
+        "image": "https://img.m4uhd.com.co/uploads/1150012000/Daredevil-TV-Series-2015-IMDb.jpg",
+        "director": "Steven S. DeKnight",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Charlie Cox",
+                "role": "Matt Murdock"
+            },
+            {
+                "name": "Vincent D'Onofrio",
+                "role": "Wilson Fisk"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Crime"},
+            {"name": "Drama"}
+        ],
+        "premiere": "2025",
+        "running_time": "130min",
+        "country": "USA",
+        "summary": "Daredevil returns to protect Hell's Kitchen from new threats while grappling with his own inner demons.",
+        "rating": 4.9
+    },
+    {
+        "id": 10,
+        "title": "Marvel's The Punisher",
+        "image": "https://images.m4uhd.com.co/asset/nov-2017/Marvels.The.Punisher..jpg",
+        "director": "Steve Lightfoot",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Jon Bernthal",
+                "role": "Frank Castle"
+            },
+            {
+                "name": "Ben Barnes",
+                "role": "Billy Russo"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Crime"},
+            {"name": "Drama"}
+        ],
+        "premiere": "2025",
+        "running_time": "140min",
+        "country": "USA",
+        "summary": "The Punisher returns to take down the criminal underworld of New York City with his brutal methods.",
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "title": "Captain Marvel",
+        "image": "https://images.m4uhd.com.co/asset/2019/june/02/captain-marvel-2019.jpg",
+        "director": "Anna Boden, Ryan Fleck",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Brie Larson",
+                "role": "Carol Danvers"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "role": "Nick Fury"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "130min",
+        "country": "USA",
+        "summary": "Captain Marvel returns to protect Earth from a new cosmic threat while uncovering more about her past.",
+        "rating": 4.6
+    },
+    {
+        "id": 12,
+        "title": "Thunderbolts",
+        "image": "https://images.m4uhd.com.co/pt/01/Thunderbolts.2025.jpg",
+        "director": "Jake Schreier",
+        "trailer_video": "https://www.youtube.com/watch?v=0W2b1a8k5e4",
+        "cast": [
+            {
+                "name": "Florence Pugh",
+                "role": "Yelena Belova"
+            },
+            {
+                "name": "Sebastian Stan",
+                "role": "Bucky Barnes"
+            }
+        ],
+        "genre": [
+            {"name": "Action"},
+            {"name": "Adventure"},
+            {"name": "Sci-Fi"}
+        ],
+        "premiere": "2025",
+        "running_time": "140min",
+        "country": "USA",
+        "summary": "A team of anti-heroes and reformed villains come together to take on a dangerous mission that could change the course of their lives.",
+        "rating": 4.3
+    }    
+]
